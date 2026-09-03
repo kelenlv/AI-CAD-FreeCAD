@@ -1,0 +1,11 @@
+# FastenerModel AI — Python 依赖
+# =============================================================
+# 本项目的 CAD 建模已改用 FreeCAD（跨平台，替代原 ZWCAD COM）。
+# FreeCAD 自带完整 Python 运行环境与 Part 模块，无需 pip 安装任何 CAD 库。
+#
+# FreeCAD 安装（macOS）：
+#   brew install --cask freecad
+#
+# 仅文档解析用到的可选依赖（按需安装）：
+#   pdfminer.six>=20221105      # PDF 文本提取（scripts/pdf_extract.py）
+#   "magic-pdf[full]"           # MinerU 复杂版面解析（可选，scripts/mineru_pdf_parser.py）

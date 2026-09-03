@@ -1,0 +1,21 @@
+{
+  "type": "nut",
+  "standardTitle": "六角螺母 GB/T 6170-2015",
+  "standardNo": "GB/T 6170-2015",
+  "geometry": {
+    "nominalDiameter": 24,
+    "pitch": 3.0,
+    "nutHeight": 21.5,
+    "widthAcrossFlats": 36
+  },
+  "attributes": {
+    "partName": "六角螺母",
+    "category": "紧固件/螺母",
+    "materialName": "40Cr",
+    "materialGrade": "10",
+    "surfaceTreatment": "达克罗",
+    "specification": "GB/T 6170-2015 螺母 M24",
+    "unit": "件",
+    "weight": 85.0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "rivet",
+  "standardTitle": "半圆头铆钉 GB/T 867-1986",
+  "standardNo": "GB/T 867-1986",
+  "geometry": {
+    "nominalDiameter": 5,
+    "length": 15,
+    "headDiameter": 8.8,
+    "headHeight": 3.0
+  },
+  "attributes": {
+    "partName": "半圆头铆钉",
+    "category": "紧固件/铆钉",
+    "materialName": "LY10铝合金",
+    "materialGrade": "",
+    "surfaceTreatment": "阳极氧化",
+    "specification": "GB/T 867-1986 铆钉 5×15",
+    "unit": "件",
+    "weight": 1.8
+  }
+}

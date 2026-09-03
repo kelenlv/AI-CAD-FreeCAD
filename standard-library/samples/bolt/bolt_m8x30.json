@@ -1,0 +1,24 @@
+{
+  "type": "bolt",
+  "standardTitle": "六角头螺栓 GB/T 5782-2016",
+  "standardNo": "GB/T 5782-2016",
+  "geometry": {
+    "nominalDiameter": 8,
+    "pitch": 1.25,
+    "length": 30,
+    "headDiameter": 14,
+    "headHeight": 5.3,
+    "widthAcrossFlats": 13,
+    "threadLength": 18
+  },
+  "attributes": {
+    "partName": "六角头螺栓",
+    "category": "紧固件/螺栓",
+    "materialName": "45钢",
+    "materialGrade": "8.8",
+    "surfaceTreatment": "镀锌",
+    "specification": "GB/T 5782-2016 螺栓 M8×30",
+    "unit": "件",
+    "weight": 11.2
+  }
+}

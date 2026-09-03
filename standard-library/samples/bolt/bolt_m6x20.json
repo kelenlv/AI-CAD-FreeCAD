@@ -1,0 +1,24 @@
+{
+  "type": "bolt",
+  "standardTitle": "六角头螺栓 GB/T 5782-2016",
+  "standardNo": "GB/T 5782-2016",
+  "geometry": {
+    "nominalDiameter": 6,
+    "pitch": 1.0,
+    "length": 20,
+    "headDiameter": 12,
+    "headHeight": 4.5,
+    "widthAcrossFlats": 10,
+    "threadLength": 14
+  },
+  "attributes": {
+    "partName": "六角头螺栓",
+    "category": "紧固件/螺栓",
+    "materialName": "45钢",
+    "materialGrade": "8.8",
+    "surfaceTreatment": "镀锌",
+    "specification": "GB/T 5782-2016 螺栓 M6×20",
+    "unit": "件",
+    "weight": 6.5
+  }
+}

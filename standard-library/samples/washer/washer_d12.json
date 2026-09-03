@@ -1,0 +1,21 @@
+{
+  "type": "washer",
+  "standardTitle": "平垫圈 GB/T 97.1-2002",
+  "standardNo": "GB/T 97.1-2002",
+  "geometry": {
+    "nominalDiameter": 12,
+    "innerDiameter": 13.0,
+    "outerDiameter": 24,
+    "thickness": 2.5
+  },
+  "attributes": {
+    "partName": "平垫圈",
+    "category": "紧固件/垫圈",
+    "materialName": "45钢",
+    "materialGrade": "",
+    "surfaceTreatment": "达克罗",
+    "specification": "GB/T 97.1-2002 垫圈 12",
+    "unit": "件",
+    "weight": 6.5
+  }
+}

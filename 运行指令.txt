@@ -1,0 +1,17 @@
+服务运行：
+cmd终端执行：pnpm next dev --port 5000
+浏览器输入：http://localhost:5000
+
+生成 CAD（FreeCAD，跨平台）
+1. 安装 FreeCAD：
+   macOS 执行：brew install --cask freecad
+2. 生成模型（推荐用 run_freecad.sh，自动定位 freecadcmd 并处理参数）：
+   ./scripts/run_freecad.sh scripts/freecad_modeler.py -t bolt -d 10 -l 40
+   或：
+   ./scripts/run_freecad.sh freecad_fastener_model.py
+   或（直接 freecadcmd 时需加 -- 分隔参数）：
+   freecadcmd scripts/freecad_modeler.py -- -t bolt -d 10 -l 40
+3. 输出文件在 output/ 目录（.step / .stl，可加 --fcstd 生成 .FCStd）
+
+文档解析（可选，按需安装）
+激活环境：mamba activate minerU_py3.11

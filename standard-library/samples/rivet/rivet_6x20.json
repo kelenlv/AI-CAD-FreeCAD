@@ -1,0 +1,21 @@
+{
+  "type": "rivet",
+  "standardTitle": "半圆头铆钉 GB/T 867-1986",
+  "standardNo": "GB/T 867-1986",
+  "geometry": {
+    "nominalDiameter": 6,
+    "length": 20,
+    "headDiameter": 10.5,
+    "headHeight": 3.6
+  },
+  "attributes": {
+    "partName": "半圆头铆钉",
+    "category": "紧固件/铆钉",
+    "materialName": "1Cr18Ni9Ti",
+    "materialGrade": "",
+    "surfaceTreatment": "钝化",
+    "specification": "GB/T 867-1986 铆钉 6×20",
+    "unit": "件",
+    "weight": 3.2
+  }
+}

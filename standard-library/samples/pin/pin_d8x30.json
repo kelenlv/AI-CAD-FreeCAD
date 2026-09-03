@@ -1,0 +1,20 @@
+{
+  "type": "pin",
+  "standardTitle": "圆柱销 GB/T 119.1-2000",
+  "standardNo": "GB/T 119.1-2000",
+  "geometry": {
+    "nominalDiameter": 8,
+    "length": 30,
+    "chamfer": 1.0
+  },
+  "attributes": {
+    "partName": "圆柱销",
+    "category": "紧固件/销",
+    "materialName": "45钢",
+    "materialGrade": "",
+    "surfaceTreatment": "淬火",
+    "specification": "GB/T 119.1-2000 销 8×30",
+    "unit": "件",
+    "weight": 11.8
+  }
+}

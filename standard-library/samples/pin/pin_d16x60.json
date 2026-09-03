@@ -1,0 +1,20 @@
+{
+  "type": "pin",
+  "standardTitle": "圆柱销 GB/T 119.1-2000",
+  "standardNo": "GB/T 119.1-2000",
+  "geometry": {
+    "nominalDiameter": 16,
+    "length": 60,
+    "chamfer": 2.0
+  },
+  "attributes": {
+    "partName": "圆柱销",
+    "category": "紧固件/销",
+    "materialName": "1Cr18Ni9Ti",
+    "materialGrade": "",
+    "surfaceTreatment": "钝化",
+    "specification": "GB/T 119.1-2000 销 16×60",
+    "unit": "件",
+    "weight": 94.7
+  }
+}

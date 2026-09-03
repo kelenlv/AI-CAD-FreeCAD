@@ -1,0 +1,24 @@
+{
+  "type": "bolt",
+  "standardTitle": "六角头螺栓 GB/T 5782-2016",
+  "standardNo": "GB/T 5782-2016",
+  "geometry": {
+    "nominalDiameter": 16,
+    "pitch": 2.0,
+    "length": 60,
+    "headDiameter": 26,
+    "headHeight": 10.5,
+    "widthAcrossFlats": 24,
+    "threadLength": 38
+  },
+  "attributes": {
+    "partName": "六角头螺栓",
+    "category": "紧固件/螺栓",
+    "materialName": "40Cr",
+    "materialGrade": "10.9",
+    "surfaceTreatment": "达克罗",
+    "specification": "GB/T 5782-2016 螺栓 M16×60",
+    "unit": "件",
+    "weight": 87.5
+  }
+}

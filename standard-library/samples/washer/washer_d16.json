@@ -1,0 +1,21 @@
+{
+  "type": "washer",
+  "standardTitle": "平垫圈 GB/T 97.1-2002",
+  "standardNo": "GB/T 97.1-2002",
+  "geometry": {
+    "nominalDiameter": 16,
+    "innerDiameter": 17.0,
+    "outerDiameter": 30,
+    "thickness": 3.0
+  },
+  "attributes": {
+    "partName": "平垫圈",
+    "category": "紧固件/垫圈",
+    "materialName": "40Cr",
+    "materialGrade": "",
+    "surfaceTreatment": "达克罗",
+    "specification": "GB/T 97.1-2002 垫圈 16",
+    "unit": "件",
+    "weight": 11.5
+  }
+}

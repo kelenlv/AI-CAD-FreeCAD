@@ -1,0 +1,21 @@
+{
+  "type": "nut",
+  "standardTitle": "六角螺母 GB/T 6170-2015",
+  "standardNo": "GB/T 6170-2015",
+  "geometry": {
+    "nominalDiameter": 8,
+    "pitch": 1.25,
+    "nutHeight": 6.8,
+    "widthAcrossFlats": 13
+  },
+  "attributes": {
+    "partName": "六角螺母",
+    "category": "紧固件/螺母",
+    "materialName": "45钢",
+    "materialGrade": "8",
+    "surfaceTreatment": "镀锌",
+    "specification": "GB/T 6170-2015 螺母 M8",
+    "unit": "件",
+    "weight": 4.8
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "航天发动机标准紧固件库",
+  "version": "1.0.0",
+  "description": "基于FastenerModel AI系统生成的航天发动机标准紧固件三维模型参数库",
+  "generatedDate": "2026-05-25",
+  "totalSamples": 25,
+  "standards": ["GB/T 5782-2016", "GB/T 6170-2015", "GB/T 97.1-2002", "GB/T 867-1986", "GB/T 119.1-2000"],
+  "categories": [
+    {
+      "type": "bolt",
+      "name": "六角头螺栓",
+      "standardNo": "GB/T 5782-2016",
+      "count": 6,
+      "samples": [
+        { "id": "bolt_m6x20", "specification": "M6×20", "file": "samples/bolt/bolt_m6x20.json" },
+        { "id": "bolt_m8x30", "specification": "M8×30", "file": "samples/bolt/bolt_m8x30.json" },
+        { "id": "bolt_m10x40", "specification": "M10×40", "file": "samples/bolt/bolt_m10x40.json" },
+        { "id": "bolt_m12x50", "specification": "M12×50", "file": "samples/bolt/bolt_m12x50.json" },
+        { "id": "bolt_m16x60", "specification": "M16×60", "file": "samples/bolt/bolt_m16x60.json" },
+        { "id": "bolt_m24x100", "specification": "M24×100", "file": "samples/bolt/bolt_m24x100.json" }
+      ]
+    },
+    {
+      "type": "nut",
+      "name": "六角螺母",
+      "standardNo": "GB/T 6170-2015",
+      "count": 6,
+      "samples": [
+        { "id": "nut_m6", "specification": "M6", "file": "samples/nut/nut_m6.json" },
+        { "id": "nut_m8", "specification": "M8", "file": "samples/nut/nut_m8.json" },
+        { "id": "nut_m10", "specification": "M10", "file": "samples/nut/nut_m10.json" },
+        { "id": "nut_m12", "specification": "M12", "file": "samples/nut/nut_m12.json" },
+        { "id": "nut_m16", "specification": "M16", "file": "samples/nut/nut_m16.json" },
+        { "id": "nut_m24", "specification": "M24", "file": "samples/nut/nut_m24.json" }
+      ]
+    },
+    {
+      "type": "washer",
+      "name": "平垫圈",
+      "standardNo": "GB/T 97.1-2002",
+      "count": 5,
+      "samples": [
+        { "id": "washer_d6", "specification": "6", "file": "samples/washer/washer_d6.json" },
+        { "id": "washer_d8", "specification": "8", "file": "samples/washer/washer_d8.json" },
+        { "id": "washer_d10", "specification": "10", "file": "samples/washer/washer_d10.json" },
+        { "id": "washer_d12", "specification": "12", "file": "samples/washer/washer_d12.json" },
+        { "id": "washer_d16", "specification": "16", "file": "samples/washer/washer_d16.json" }
+      ]
+    },
+    {
+      "type": "rivet",
+      "name": "半圆头铆钉",
+      "standardNo": "GB/T 867-1986",
+      "count": 4,
+      "samples": [
+        { "id": "rivet_3x8", "specification": "3×8", "file": "samples/rivet/rivet_3x8.json" },
+        { "id": "rivet_5x15", "specification": "5×15", "file": "samples/rivet/rivet_5x15.json" },
+        { "id": "rivet_6x20", "specification": "6×20", "file": "samples/rivet/rivet_6x20.json" },
+        { "id": "rivet_8x30", "specification": "8×30", "file": "samples/rivet/rivet_8x30.json" }
+      ]
+    },
+    {
+      "type": "pin",
+      "name": "圆柱销",
+      "standardNo": "GB/T 119.1-2000",
+      "count": 4,
+      "samples": [
+        { "id": "pin_d4x20", "specification": "4×20", "file": "samples/pin/pin_d4x20.json" },
+        { "id": "pin_d8x30", "specification": "8×30", "file": "samples/pin/pin_d8x30.json" },
+        { "id": "pin_d12x50", "specification": "12×50", "file": "samples/pin/pin_d12x50.json" },
+        { "id": "pin_d16x60", "specification": "16×60", "file": "samples/pin/pin_d16x60.json" }
+      ]
+    }
+  ],
+  "totalMaterials": ["45钢", "40Cr", "LY10铝合金", "1Cr18Ni9Ti"],
+  "totalSurfaceTreatments": ["镀锌", "达克罗", "阳极氧化", "钝化", "淬火"]
+}
